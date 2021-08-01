@@ -23,4 +23,4 @@ npm install -g nodemon
 <a href="https://youtu.be/uwwYE23dq1M" rel="nofollow"> Live Demo </a>
 
 ### Website
-<a href="https://github.com/CodeAT21/React-Quill-powerful-rich-text-editor" rel="nofollow"> Website </a>
+<a href="https://codeat21.com/react-quill-powerful-rich-text-editor/" rel="nofollow"> Website </a>
